@@ -1,6 +1,7 @@
 
 # 418	Wysyłanie e-maili- automatyzacja
-## Wyślij wiadomość e-mail do klienta
+## BLIK
+### Wyślij wiadomość e-mail do klienta
 ``` html
 <p>
 Dzień dobry,<br>
