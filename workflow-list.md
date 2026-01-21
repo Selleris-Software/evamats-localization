@@ -50,6 +50,23 @@ Pliki:
 - https://evamats.bitrix24.pl/disk/file/d7XQ3C6kE80baboGYoSW
 - https://evamats.bitrix24.pl/disk/file/Mk7Fe7LhtheHJ4vxZhHl
 
+### Wyślij SMS
+``` html
+EVAMATS – zamówienie nr: {{Nr zamówienia}}
+
+{{Marka Auta}}, {{Model Auta}}, {{Rok produkcji}}, {{Typ nadwozia}}, {{Wariant kompletu}}, materiał: {{Kolor materiału}}, obszycie: {{Kolor obszycia}}.
+
+{=Variable:rodzajKompletu > printable} {{Wariant kompletu}} - {=Variable:cenaKompletu > printable} zł.
+{=Variable:dodatkiComment > printable}
+Razem do zapłaty z dostawą: {{Kwota (w walucie księgowania)}} zł.
+Dostawa: {=Variable:adresDostawy > printable}. 
+
+Płatność online (ważna 24h): {{Link do płatności}}
+
+Pełne potwierdzenie wysłane na e-mail.
+Kontakt: {{Osoba odpowiedzialna (telefon służbowy)}}
+```
+
 # 442	Wysyłanie email po stworzeniu e-paragona
 # 446	Wysyłanie email po stworzeniu faktury
 # 498	Wysłanie komunikacji "Czekam na opłatę"
