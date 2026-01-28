@@ -607,6 +607,223 @@ Kontakt: {{Osoba odpowiedzialna (telefon służbowy)}}
 
 
 # 442	Wysyłanie email po stworzeniu e-paragona
+## Is Email?
+### Wyślij wiadomość e-mail do klienta
+``` html 
+<br>
+<div id="main_mail_form_crm_mail_template_edit_form_14_quote_18e9edfad98">
+ <br>
+	<div>
+		<div>
+			 Witam,&nbsp;<br>
+ <br>
+			 Wysyłamy 
+Eparagon {=Document:UF_CRM_1712848351} zgodnie z zamówieniem.&nbsp; Dziękuje&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/15.0/1f91d/72.png" style="height: 1.2em; width: 1.2em;"><br>
+ <br>
+ <br>
+ <br>
+			 Pozdrawiam<br>
+ <br>
+ <br>
+ <img src="https://ci3.googleusercontent.com/mail-sig/AIorK4xFYNHzggNeiLOZBHTRV1X4NUw0oaOg3qc-r7tfg3wxnyI0w6bwwbU17oje4xyBXd-UGJrmsyc"><br>
+			<table cellpadding="0" cellspacing="0">
+			<tbody>
+			<tr>
+				<td>
+ <b>Maks Havryshchuk </b>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					 CEO &amp; Founder<br>
+					 EVAMATS<br>
+ <img src="https://ci3.googleusercontent.com/mail-sig/AIorK4zNVi3ceiYsEP5YUnRp3Yoz0FUcs1YSMGpiQIU5tJLdnslr7y7YGzwMNn8boqdV4PG109bcavg"><br>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					 mobile:&nbsp;<a href="tel:+48730428913" target="_blank">+48</a>730428913<br>
+ <a href="http://evamats.pl/" target="_blank">evamats.pl</a><br>
+				</td>
+			</tr>
+			<tr>
+				<td>
+ <a href="https://www.facebook.com/evamatspl" target="_blank"><img width="200" alt="Facebook icon" src="https://ci5.googleusercontent.com/proxy/NNFToRb9IxBx1dGp0nj3RsJ_KKA5SWURBRes7oEUPV6-uq2N_dngJrIhk_GZZrap5o6oG2fMYgnRpojE5i_vVIeSos_jBWTLBZmoo25f2CsQ6CeVuly4AjtOepdChmDVItNRdYSRQ0c=s0-d-e1-ft#https://www.mail-signatures.com/signature-generator/img/templates/elegant-logo/fb.png" height="200" style="height: 20px; width: 20px;"></a><a href="https://www.instagram.com/evamats.pl" target="_blank"><img width="20" alt="Instagram icon" src="https://ci6.googleusercontent.com/proxy/hgT72ksYOS21Ucg4kyAl3BZZczs6GN60dJU18-F1duip2cJFueHNxu1R8TL5PGNXJr9Po_-yip82sywjecDjb1S6pWMijCkGK7kfXzjTHO-j0mu8Rza8PyqfhqEdscK5nNwz6KL_i84=s0-d-e1-ft#https://www.mail-signatures.com/signature-generator/img/templates/elegant-logo/it.png" height="20" style="height: 20px; width: 20px;"></a>&nbsp;&nbsp;
+				</td>
+			</tr>
+			</tbody>
+			</table>
+ <br>
+ <span style="font-size: 8pt;">Informacje zawarte w niniejszym przekazie elektronicznym mają charakter poufny i są przeznaczone wyłącznie dla adresata. Jeżeli nie są Państwo adresatem tego przekazu, prosimy powiadomić nadawcę o fakcie jego otrzymania, jak również zniszczyć ten przekaz wraz ze wszystkimi załącznikami, które zawiera. Wykorzystywanie do jakichkolwiek celów, ujawnianie, kopiowanie, zarówno w całości, jak i w części, informacji tu zawartych jest zabronione i stanowi naruszenie prawa. Zastrzegamy sobie prawo wglądu do treści każdego przekazu elektronicznego, który wpływa do naszych systemów elektronicznych lub jest z nich wysyłany.</span><br>
+		</div>
+ <br>
+	</div>
+ <br>
+</div>
+ <br>
+ ```
+Pilki:
+-
+-
+-
+
+### Wyślij SMS
+``` html
+EVAMATS: Wystawiono Eparagon do zamównienia
+
+Witam,
+Wysyłamy 
+Eparagon {{Eparagon zaliczka link}} zgodnie z zamówieniem.
+Dziękuje	 
+Pozdrawiam
+```
+
+
+## Is Email?
+### Wyślij wiadomość e-mail do klienta
+``` html
+<br>
+<div id="main_mail_form_crm_mail_template_edit_form_14_quote_18e9edfad98">
+ <br>
+	<div>
+		<div>
+			 Witam,&nbsp;<br>
+ <br>
+			 Wysyłamy 
+Eparagon {=Document:UF_CRM_1710937223} zgodnie z zamówieniem.&nbsp; Dziękuje&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/15.0/1f91d/72.png" style="height: 1.2em; width: 1.2em;"><br>
+ <br>
+ <br>
+ <br>
+			 Pozdrawiam<br>
+ <br>
+ <br>
+ <img src="https://ci3.googleusercontent.com/mail-sig/AIorK4xFYNHzggNeiLOZBHTRV1X4NUw0oaOg3qc-r7tfg3wxnyI0w6bwwbU17oje4xyBXd-UGJrmsyc"><br>
+			<table cellpadding="0" cellspacing="0">
+			<tbody>
+			<tr>
+				<td>
+ <b>Maks Havryshchuk </b>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					 CEO &amp; Founder<br>
+					 EVAMATS<br>
+ <img src="https://ci3.googleusercontent.com/mail-sig/AIorK4zNVi3ceiYsEP5YUnRp3Yoz0FUcs1YSMGpiQIU5tJLdnslr7y7YGzwMNn8boqdV4PG109bcavg"><br>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					 mobile:&nbsp;<a href="tel:+48730428913" target="_blank">+48</a>730428913<br>
+ <a href="http://evamats.pl/" target="_blank">evamats.pl</a><br>
+				</td>
+			</tr>
+			<tr>
+				<td>
+ <a href="https://www.facebook.com/evamatspl" target="_blank"><img width="200" alt="Facebook icon" src="https://ci5.googleusercontent.com/proxy/NNFToRb9IxBx1dGp0nj3RsJ_KKA5SWURBRes7oEUPV6-uq2N_dngJrIhk_GZZrap5o6oG2fMYgnRpojE5i_vVIeSos_jBWTLBZmoo25f2CsQ6CeVuly4AjtOepdChmDVItNRdYSRQ0c=s0-d-e1-ft#https://www.mail-signatures.com/signature-generator/img/templates/elegant-logo/fb.png" height="200" style="height: 20px; width: 20px;"></a><a href="https://www.instagram.com/evamats.pl" target="_blank"><img width="20" alt="Instagram icon" src="https://ci6.googleusercontent.com/proxy/hgT72ksYOS21Ucg4kyAl3BZZczs6GN60dJU18-F1duip2cJFueHNxu1R8TL5PGNXJr9Po_-yip82sywjecDjb1S6pWMijCkGK7kfXzjTHO-j0mu8Rza8PyqfhqEdscK5nNwz6KL_i84=s0-d-e1-ft#https://www.mail-signatures.com/signature-generator/img/templates/elegant-logo/it.png" height="20" style="height: 20px; width: 20px;"></a>&nbsp;&nbsp;
+				</td>
+			</tr>
+			</tbody>
+			</table>
+ <br>
+ <span style="font-size: 8pt;">Informacje zawarte w niniejszym przekazie elektronicznym mają charakter poufny i są przeznaczone wyłącznie dla adresata. Jeżeli nie są Państwo adresatem tego przekazu, prosimy powiadomić nadawcę o fakcie jego otrzymania, jak również zniszczyć ten przekaz wraz ze wszystkimi załącznikami, które zawiera. Wykorzystywanie do jakichkolwiek celów, ujawnianie, kopiowanie, zarówno w całości, jak i w części, informacji tu zawartych jest zabronione i stanowi naruszenie prawa. Zastrzegamy sobie prawo wglądu do treści każdego przekazu elektronicznego, który wpływa do naszych systemów elektronicznych lub jest z nich wysyłany.</span><br>
+		</div>
+ <br>
+	</div>
+ <br>
+</div>
+ <br>
+```
+Pliki:
+-
+-
+-
+
+### Wyślij SMS
+``` html
+EVAMATS: Wystawiono Eparagon do zamównienia
+
+Witam,
+Wysyłamy 
+Eparagon {{Eparagon link}} zgodnie z zamówieniem.
+Dziękuje	 
+Pozdrawiam
+```
+
+## Is Email?
+### Wyślij wiadomość e-mail do klienta
+``` html
+<br>
+<div id="main_mail_form_crm_mail_template_edit_form_14_quote_18e9edfad98">
+ <br>
+	<div>
+		<div>
+			 Witam,&nbsp;<br>
+ <br>
+			 Wysyłamy 
+Eparagon {=Document:UF_CRM_1710937223} zgodnie z zamówieniem.&nbsp; Dziękuje&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/15.0/1f91d/72.png" style="height: 1.2em; width: 1.2em;"><br>
+ <br>
+ <br>
+ <br>
+			 Pozdrawiam<br>
+ <br>
+ <br>
+ <img src="https://ci3.googleusercontent.com/mail-sig/AIorK4xFYNHzggNeiLOZBHTRV1X4NUw0oaOg3qc-r7tfg3wxnyI0w6bwwbU17oje4xyBXd-UGJrmsyc"><br>
+			<table cellpadding="0" cellspacing="0">
+			<tbody>
+			<tr>
+				<td>
+ <b>Maks Havryshchuk </b>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					 CEO &amp; Founder<br>
+					 EVAMATS<br>
+ <img src="https://ci3.googleusercontent.com/mail-sig/AIorK4zNVi3ceiYsEP5YUnRp3Yoz0FUcs1YSMGpiQIU5tJLdnslr7y7YGzwMNn8boqdV4PG109bcavg"><br>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					 mobile:&nbsp;<a href="tel:+48730428913" target="_blank">+48</a>730428913<br>
+ <a href="http://evamats.pl/" target="_blank">evamats.pl</a><br>
+				</td>
+			</tr>
+			<tr>
+				<td>
+ <a href="https://www.facebook.com/evamatspl" target="_blank"><img width="200" alt="Facebook icon" src="https://ci5.googleusercontent.com/proxy/NNFToRb9IxBx1dGp0nj3RsJ_KKA5SWURBRes7oEUPV6-uq2N_dngJrIhk_GZZrap5o6oG2fMYgnRpojE5i_vVIeSos_jBWTLBZmoo25f2CsQ6CeVuly4AjtOepdChmDVItNRdYSRQ0c=s0-d-e1-ft#https://www.mail-signatures.com/signature-generator/img/templates/elegant-logo/fb.png" height="200" style="height: 20px; width: 20px;"></a><a href="https://www.instagram.com/evamats.pl" target="_blank"><img width="20" alt="Instagram icon" src="https://ci6.googleusercontent.com/proxy/hgT72ksYOS21Ucg4kyAl3BZZczs6GN60dJU18-F1duip2cJFueHNxu1R8TL5PGNXJr9Po_-yip82sywjecDjb1S6pWMijCkGK7kfXzjTHO-j0mu8Rza8PyqfhqEdscK5nNwz6KL_i84=s0-d-e1-ft#https://www.mail-signatures.com/signature-generator/img/templates/elegant-logo/it.png" height="20" style="height: 20px; width: 20px;"></a>&nbsp;&nbsp;
+				</td>
+			</tr>
+			</tbody>
+			</table>
+ <br>
+ <span style="font-size: 8pt;">Informacje zawarte w niniejszym przekazie elektronicznym mają charakter poufny i są przeznaczone wyłącznie dla adresata. Jeżeli nie są Państwo adresatem tego przekazu, prosimy powiadomić nadawcę o fakcie jego otrzymania, jak również zniszczyć ten przekaz wraz ze wszystkimi załącznikami, które zawiera. Wykorzystywanie do jakichkolwiek celów, ujawnianie, kopiowanie, zarówno w całości, jak i w części, informacji tu zawartych jest zabronione i stanowi naruszenie prawa. Zastrzegamy sobie prawo wglądu do treści każdego przekazu elektronicznego, który wpływa do naszych systemów elektronicznych lub jest z nich wysyłany.</span><br>
+		</div>
+ <br>
+	</div>
+ <br>
+</div>
+ <br>
+```
+Pilki:
+-
+-
+-
+
+### Wyślij SMS
+``` html
+EVAMATS: Wystawiono Eparagon do zamównienia
+
+Witam,
+Wysyłamy 
+Eparagon {{Eparagon link}} zgodnie z zamówieniem.
+Dziękuje	 
+Pozdrawiam
+```
+
+
+
+
 # 446	Wysyłanie email po stworzeniu faktury
 # 498	Wysłanie komunikacji "Czekam na opłatę"
 # 550	Wezwanie przedsądowe
