@@ -1,3 +1,6 @@
+# Workflow report
+https://selleris-my.sharepoint.com/:x:/p/sd/IQCXFg2XxdncQbKyAgPIH6nPAXXrxi18lv4iHdDu7A087NM?e=cqIG9c
+
 
 # 418	Wysyłanie e-maili- automatyzacja
 ## BLIK
